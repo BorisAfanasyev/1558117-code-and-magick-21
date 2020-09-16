@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Boris Afanasev](https://up.htmlacademy.ru/javascript/21/user/1558117).
-* Наставник: `Неизвестно`.
+* Наставник: `Ксения Толстых`.
 
 ---
 
